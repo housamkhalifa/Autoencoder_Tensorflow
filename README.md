@@ -10,5 +10,8 @@ Some of the codes are taken from (pkmital) : https://github.com/pkmital/tensorfl
    -   data = skimage.io.imread_collection('path/your/training/file/*.png')
    -   test_sample = skimage.io.imread('path/to/your/test/image')
 - Then you need to define the the number the sizes for each layer 
-    e.g dimensions = [2500, 2300, 2000, 1700, 1400, 1100, 800, 500, 300]
- 
+    - e.g dimensions = [2500, 2300, 2000, 1700, 1400, 1100, 800, 500, 300]
+- Finally before you call the main function you need to define:
+   -  # batch size
+   -  # number of iterations
+  
