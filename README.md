@@ -1,5 +1,6 @@
 # TensorflowExamples
 Examples based on Google's Tensorflow to help you understand some of the concepts in machince learning.
+\n
 
 Some of the codes are taken from (pkmital) : https://github.com/pkmital/tensorflow_tutorials
 
